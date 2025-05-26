@@ -45,3 +45,6 @@ SRocksMusic_Assignemnt/
   *   **`views/`**: Contains the widgets that represent full screens in your application. These widgets use `ConsumerWidget` or `ConsumerStatefulWidget` from Riverpod to watch providers and rebuild when state changes.
   *   **`widgets/`**: Contains smaller, reusable UI components that are used within screens or other widgets. For example, `ServiceCard` is a widget that knows how to display a single service.
   *   **`assets/`**: Contains all the images, icons and fonts used in this application.
+
+## App Preview
+![Home Screen](assets/images/Preview.png)
