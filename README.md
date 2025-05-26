@@ -14,27 +14,27 @@ The application follows a feature-driven approach with a clear separation of con
 ## Folder Structure
 SRocksMusic_Assignemnt/       
  ├── android/                      
- ├── ios/  
+ ├── ios/        
  ├── assets/               
- │   ├── fonts
- │   ├── images
- ├── lib/ 
- │   ├── main.dart
- │   ├── firebase_options.dart
- │   ├── models/               
+ │   ├── fonts        
+ │   ├── images       
+ ├── lib/         
+ │   ├── main.dart       
+ │   ├── firebase_options.dart      
+ │   ├── models/                   
  │   │   └── service_model.dart     
  │   ├── providers/            
- │   │   └── service_providers.dart 
- │   ├── views/ 
- │   │   ├── home_screen.dart     
- │   │   └── service_detail_screen.dart 
- │   ├── widgets/              
- │   │   └── service_card.dart
+ │   │   └── service_providers.dart        
+ │   ├── views/       
+ │   │   ├── home_screen.dart      
+ │   │   └── service_detail_screen.dart       
+ │   ├── widgets/                
+ │   │   └── service_card.dart     
  ├── test/                         
- ├── firebase.json
- ├── pubspec.yaml
- ├── .gitignore
- └── README.md 
+ ├── firebase.json      
+ ├── pubspec.yaml      
+ ├── .gitignore      
+ └── README.md       
 
 
 **Key Directory Explanations:**
