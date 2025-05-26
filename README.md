@@ -16,20 +16,20 @@ SRocksMusic_Assignemnt/
  ├── android/                      
  ├── ios/        
  ├── assets/               
- │   ├── fonts        
- │   ├── images       
+ │     ├── fonts        
+ │     ├── images       
  ├── lib/         
  │   ├── main.dart       
  │   ├── firebase_options.dart      
  │   ├── models/                   
- │   │   └── service_model.dart     
+ │   │     └── service_model.dart     
  │   ├── providers/            
- │   │   └── service_providers.dart        
+ │   │     └── service_providers.dart        
  │   ├── views/       
- │   │   ├── home_screen.dart      
- │   │   └── service_detail_screen.dart       
+ │   │     ├── home_screen.dart      
+ │   │     └── service_detail_screen.dart       
  │   ├── widgets/                
- │   │   └── service_card.dart     
+ │         └── service_card.dart     
  ├── test/                         
  ├── firebase.json      
  ├── pubspec.yaml      
