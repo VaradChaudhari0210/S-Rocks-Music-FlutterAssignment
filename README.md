@@ -17,7 +17,7 @@ SRocksMusic_Assignemnt/
  ├── ios/  
  ├── assets/               
  │   ├── fonts
- │   ├── images
+     ├── images
  ├── lib/ 
  │   ├── main.dart
  │   ├── firebase_options.dart
