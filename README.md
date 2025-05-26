@@ -39,10 +39,10 @@ SRocksMusic_Assignemnt/
 
 **Key Directory Explanations:**
 
-  *   **`lib/`**: The heart of the Flutter application.
-    *   **`models/`**: Contains simple Dart classes that define the structure of the data your app works with \
-    *   **`providers/`**: Holds all Riverpod providers. These are responsible for providing dependencies (like a `FirebaseFirestore` instance or a `ServicesRepository`) and managing the application's state.
-    *   **`views/`**: Contains the widgets that represent full screens in your application. These widgets use `ConsumerWidget` or `ConsumerStatefulWidget` from Riverpod to watch providers and rebuild when state changes.
-    *   **`widgets/`**: Contains smaller, reusable UI components that are used within screens or other widgets. For example, `ServiceCard` is a widget that knows how to display a single service.
+  *   **`lib/`**: The heart of the Flutter application.    
+  *   **`models/`**: Contains simple Dart classes that define the structure of the data your app works with.
+  *   **`providers/`**: Holds all Riverpod providers. These are responsible for providing dependencies (like a `FirebaseFirestore` instance or a `ServicesRepository`) and managing the application's state.
+  *   **`views/`**: Contains the widgets that represent full screens in your application. These widgets use `ConsumerWidget` or `ConsumerStatefulWidget` from Riverpod to watch providers and rebuild when state changes.
+  *   **`widgets/`**: Contains smaller, reusable UI components that are used within screens or other widgets. For example, `ServiceCard` is a widget that knows how to display a single service.
   *   **`assets/`**: Contains all the images, icons and fonts used in this application.
 This structure aims for maintainability, testability, and scalability by clearly separating UI, business logic, data handling, and state management.
