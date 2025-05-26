@@ -9,7 +9,7 @@ The application follows a feature-driven approach with a clear separation of con
 *   **Model-View-ViewModel (MVVM) like Structure (Implicitly with Riverpod):**
     *   **Models:** Define the data structures (e.g., `ServiceModel`).
     *   **Views (Screens/Widgets):** Responsible for displaying the UI and reacting to user input. They consume state from Riverpod providers.
-    *   **ViewModels (Riverpod Providers/Notifiers):** Manage the state and business logic for the views. They interact with repositories to fetch or manipulate data.
+    *   **ViewModels (Riverpod Providers):** Manage the state and business logic for the views. They interact with repositories to fetch or manipulate data.
 
 ## Folder Structure
 SRocksMusic_Assignemnt/       
