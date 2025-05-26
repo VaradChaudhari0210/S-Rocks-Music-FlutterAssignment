@@ -12,7 +12,7 @@ The application follows a feature-driven approach with a clear separation of con
     *   **ViewModels (Riverpod Providers/Notifiers):** Manage the state and business logic for the views. They interact with repositories to fetch or manipulate data.
 
 ## Folder Structure
-SRocksMusic_Assignemnt/ 
+SRocksMusic_Assignemnt/       
  ├── android/                      
  ├── ios/  
  ├── assets/               
