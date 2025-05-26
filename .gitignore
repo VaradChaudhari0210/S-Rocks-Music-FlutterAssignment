@@ -1,0 +1,20 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+.idea/
+.vscode/
+*.iml
+
+# Android related
+android/.gradle/
+android/captures/
+*.keystore
+
+# iOS related
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
