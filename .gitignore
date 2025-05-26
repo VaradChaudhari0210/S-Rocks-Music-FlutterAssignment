@@ -12,8 +12,8 @@ build/
 android/.gradle/
 android/captures/
 
-*.keystore
-.lib/firebase_options.dart
+# keystore
+lib/firebase_options.dart
 
 # iOS related
 ios/Flutter/Generated.xcconfig
